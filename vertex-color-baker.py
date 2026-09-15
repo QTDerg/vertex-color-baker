@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "GPU Advanced Vertex Painter",
+    "name": "Vertex Color Baker",
     "version": (2, 0),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > Vertex Paint",
